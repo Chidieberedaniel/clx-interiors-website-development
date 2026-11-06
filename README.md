@@ -1,2 +1,57 @@
-# clx-interiors-website-development
-A mobile-first, AI-assisted business website developed for CLX Interiors using Lovable.
+# Mobile-First Website Design & Development for CLX Interiors
+
+## Project Overview
+
+This project involved designing and developing a responsive business website for CLX Interiors, an interior design brand based in Lagos, Nigeria.
+
+The objective was to establish a professional digital presence that communicates the brand's identity, showcases its services and provides potential clients with an accessible way to explore the business.
+
+The website was developed using an AI-assisted workflow with Lovable, following a mobile-first design approach.
+
+**Live Website:** https://clxinteriors.lovable.app
+
+## Project Objectives
+
+- Establish a professional online presence for CLX Interiors.
+- Create a user-friendly experience across mobile and desktop devices.
+- Present the company's interior design services clearly.
+- Develop a consistent visual identity throughout the website.
+- Make business information easily accessible to potential clients.
+
+## Tools & Technologies
+
+- **Lovable:** AI-assisted website development.
+- **AI Prompting:** Used to guide website structure, layout and content development.
+- **Responsive Web Design:** Mobile-first design approach.
+
+## Development Approach
+
+### 1. Mobile-First Design
+
+The website was approached with mobile users in mind, prioritising clear content presentation, accessible navigation and usability on smaller screens before considering larger desktop layouts.
+
+### 2. AI-Assisted Development
+
+Lovable was used as the primary development environment. Structured prompts helped guide the website's layout, content organisation and visual direction.
+
+### 3. Website Structure & Content
+
+The website was organised to communicate the brand, introduce its services and provide visitors with relevant business information.
+
+### 4. Responsive Experience
+
+The design approach considered different screen sizes to support a consistent browsing experience across mobile and desktop devices.
+
+## Project Outcome
+
+The project resulted in a live business website for CLX Interiors, providing the brand with a professional digital presence.
+
+It demonstrates the practical application of AI-assisted development, structured prompting and mobile-first design principles.
+
+## Live Project
+
+https://clxinteriors.lovable.app
+
+## Project Category
+
+AI-Assisted Development | Website Design | Mobile-First Design
