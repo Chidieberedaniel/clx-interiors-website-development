@@ -53,7 +53,7 @@ It demonstrates the practical application of AI-assisted development, structured
 https://clxinteriors.lovable.app
 
 
-
+...................................................................................................................................................................................................................
 
 ## Website Screenshots
 
@@ -70,6 +70,34 @@ The following screenshots showcase the mobile-first design and key sections of t
 
 ### Contact Page — Mobile View
 ![CLX Interiors Contact Page](screenshots/contact-mobile.jpg)
+
+
+.....................................................................................................................................................................................................
+
+## AI-Assisted Development Workflow
+
+The website was developed through an iterative AI-assisted workflow involving ChatGPT and Lovable.
+
+### 1. Idea Development & Planning
+I started by explaining my website concept, business requirements, design preferences and desired user experience to ChatGPT.
+
+### 2. Prompt Engineering
+I used ChatGPT to translate my ideas and requirements into structured prompts that could be used in Lovable.
+
+### 3. Initial Website Generation
+I submitted the generated prompts to Lovable, which produced the initial website structure and design.
+
+### 4. Iterative Refinement
+After reviewing the initial output, I provided additional prompts to refine the website. These adjustments focused on improving the layout, visual presentation, content and overall user experience until the result aligned with my expectations.
+
+### 5. Human Review & Finalisation
+I reviewed the generated results, made design decisions and guided further refinements throughout the process.
+
+### AI Tools Used
+- **ChatGPT:** Idea development, prompt generation and refinement.
+- **Lovable:** AI-assisted website generation and development.
+
+This workflow demonstrates how AI tools can be combined with human direction and iterative feedback to develop a functional business website.
 
 ## Project Category
 
