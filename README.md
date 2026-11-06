@@ -52,6 +52,25 @@ It demonstrates the practical application of AI-assisted development, structured
 
 https://clxinteriors.lovable.app
 
+
+
+
+## Website Screenshots
+
+The following screenshots showcase the mobile-first design and key sections of the CLX Interiors website.
+
+### Homepage — Mobile View
+![CLX Interiors Homepage](screenshots/homepage-mobile.jpg)
+
+### Portfolio — Mobile View
+![CLX Interiors Portfolio](screenshots/portfolio-mobile.jpg)
+
+### Services — Mobile View
+![CLX Interiors Services](screenshots/services-mobile.jpg)
+
+### Contact Page — Mobile View
+![CLX Interiors Contact Page](screenshots/contact-mobile.jpg)
+
 ## Project Category
 
 AI-Assisted Development | Website Design | Mobile-First Design
